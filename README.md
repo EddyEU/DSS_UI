@@ -8,6 +8,10 @@ ABM Users
 
 
 * Execute Script
+  
+```
+	app/database/database.sql
+```
 
 ```
   CREATE TABLE USUARIO (
@@ -19,11 +23,6 @@ ABM Users
       PRIMARY KEY (id)
   );
  ```
-  
-* Execute file 	
-```
-	app/database/database.sql
-```
 
 * Change value connection database 	
 ```
@@ -42,8 +41,16 @@ define('DB_PASS', '');      // 'your-database-password';
  
  * Install Laragon: https://laragon.org/download/index.html
   
- * Run file index.html		
-
+ * Run file index.php
+ 
+ 
+ 
+ ### Proyect
+ DSS_Emailing_Go: https://github.com/kevinsubieta/DSS_Emailing_Go.git
+ 
+ DSS_Storage_Go: https://github.com/kevinsubieta/DSS_Storage_Go.git
+ 
+ DSS_UI: https://github.com/EddyEU/DSS_UI.git
  
  
  
